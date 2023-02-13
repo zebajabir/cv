@@ -1,3 +1,92 @@
-# cv
 
-testing
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>zeba's personal site</title>
+  </head>
+  <body>
+    <table cellspacing="20>"
+        <tr>
+            <td> <img src="https://pbs.twimg.com/profile_images/1523987597751726081/XuQeo7gC_400x400.jpg" alt="hiiiii">
+            </td>
+            <td><h1>zeba yu</h1>
+                <p><em>Founder and CTO of <strong><a href="https://appbrewery.com/">The App Brewery</a> </strong>.</em></p>
+                <p>i ❤️ tea </p></td>
+                </tr>
+                </table>
+
+    <hr>
+    <h3>books and teaching</h3>
+    <ul>
+     <li>the complete ios app  web development bootcamp</li>
+     <li>the complete web development bootcamp</li>
+    </ul>
+    <h3>work experience</h3>
+     <table border="1">
+         <thead>
+
+            </thead>
+            <tbody>
+
+                </tbody>
+                <tfoot>
+
+                    </tfoot>
+                    <tr>
+            <th>dates</th>
+            <th>work</th>
+            </tr>
+            <tr>
+                <td>2010-2013</td>
+                <td> worked as web developer at tempo</td>
+                </tr>
+                <tr>
+                    <td>2010</td>
+                    <td>  worked as researcher at tempo</td>
+                    </tr>
+                </table>
+                <h4>skills</h4>
+
+
+<table>    <table>
+    <tr>
+        <td>cooking</td>
+        <td>⭐⭐⭐⭐</td>
+   </tr>
+   <tr>
+    <td>learning</td>
+    <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    </table>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>cooking</td>
+                    <td>⭐⭐⭐⭐</td>
+               </tr>
+               <tr>
+                <td>learning</td>
+                <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+                </table>
+        </td>
+        <td>
+
+        </td>
+    </tr>
+    </table>
+
+    
+
+
+
+
+
+
+
+            
+                    <hr>  
+<a href="hobbies.html">My Hobbies</a>
+<a href="contact_me.html">contact me</a>
